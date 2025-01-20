@@ -1,4 +1,4 @@
-# C++ Module: Templated Containers, Iterators, and Algorithms
+# C++ Module 08:
 
 ## Overview
 
